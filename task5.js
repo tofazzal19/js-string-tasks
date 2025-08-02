@@ -1,5 +1,5 @@
 let str = "hellow world, i am learning java sripts";
-let words = str.split();
+let words = str.split(" ");
 
 for(let i = 0; i< words.length; i++){
       let word = words[i];
